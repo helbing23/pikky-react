@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/helbing23/pikky-react.git/static/css/main.bc2ede7b.chunk.css",
-    "main.js": "/helbing23/pikky-react.git/static/js/main.16455926.chunk.js",
-    "main.js.map": "/helbing23/pikky-react.git/static/js/main.16455926.chunk.js.map",
-    "runtime-main.js": "/helbing23/pikky-react.git/static/js/runtime-main.b6dfebd2.js",
-    "runtime-main.js.map": "/helbing23/pikky-react.git/static/js/runtime-main.b6dfebd2.js.map",
-    "static/js/2.3db5ae60.chunk.js": "/helbing23/pikky-react.git/static/js/2.3db5ae60.chunk.js",
-    "static/js/2.3db5ae60.chunk.js.map": "/helbing23/pikky-react.git/static/js/2.3db5ae60.chunk.js.map",
-    "static/js/3.92d60796.chunk.js": "/helbing23/pikky-react.git/static/js/3.92d60796.chunk.js",
-    "static/js/3.92d60796.chunk.js.map": "/helbing23/pikky-react.git/static/js/3.92d60796.chunk.js.map",
-    "index.html": "/helbing23/pikky-react.git/index.html",
-    "static/css/main.bc2ede7b.chunk.css.map": "/helbing23/pikky-react.git/static/css/main.bc2ede7b.chunk.css.map",
-    "static/js/2.3db5ae60.chunk.js.LICENSE.txt": "/helbing23/pikky-react.git/static/js/2.3db5ae60.chunk.js.LICENSE.txt"
+    "main.css": "/helbing23/pikky-react/static/css/main.bc2ede7b.chunk.css",
+    "main.js": "/helbing23/pikky-react/static/js/main.16455926.chunk.js",
+    "main.js.map": "/helbing23/pikky-react/static/js/main.16455926.chunk.js.map",
+    "runtime-main.js": "/helbing23/pikky-react/static/js/runtime-main.68a97567.js",
+    "runtime-main.js.map": "/helbing23/pikky-react/static/js/runtime-main.68a97567.js.map",
+    "static/js/2.3db5ae60.chunk.js": "/helbing23/pikky-react/static/js/2.3db5ae60.chunk.js",
+    "static/js/2.3db5ae60.chunk.js.map": "/helbing23/pikky-react/static/js/2.3db5ae60.chunk.js.map",
+    "static/js/3.92d60796.chunk.js": "/helbing23/pikky-react/static/js/3.92d60796.chunk.js",
+    "static/js/3.92d60796.chunk.js.map": "/helbing23/pikky-react/static/js/3.92d60796.chunk.js.map",
+    "index.html": "/helbing23/pikky-react/index.html",
+    "static/css/main.bc2ede7b.chunk.css.map": "/helbing23/pikky-react/static/css/main.bc2ede7b.chunk.css.map",
+    "static/js/2.3db5ae60.chunk.js.LICENSE.txt": "/helbing23/pikky-react/static/js/2.3db5ae60.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b6dfebd2.js",
+    "static/js/runtime-main.68a97567.js",
     "static/js/2.3db5ae60.chunk.js",
     "static/css/main.bc2ede7b.chunk.css",
     "static/js/main.16455926.chunk.js"
